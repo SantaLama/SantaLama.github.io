@@ -1,8 +1,9 @@
 ---
-Hello my sweety guys. My name is SantaLama.
+Do you like fantasy cards?
+http://media.blizzard.com/hearthstone/images/backgroundart.jpg
 ---
 
-
+Hello my sweety guys. My name is SantaLama.
 
 Today in my blog I want talk about the best card game with great random and difrent combinations, about Hearthstone!!1
 
