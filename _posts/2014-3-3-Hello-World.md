@@ -1,6 +1,6 @@
 ---
 Do you like fantasy cards?
-http://media.blizzard.com/hearthstone/images/backgroundart.jpg
+https://www.google.kz/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjWm5qX-rrNAhXqA5oKHQlgBjEQjRwIBw&url=http%3A%2F%2Feu.battle.net%2Fhearthstone%2Fru%2F&psig=AFQjCNEnHhCrknGG0Hi13_2lY_zIastD8w&ust=1466661541370468
 ---
 
 Hello my sweety guys. My name is SantaLama.
