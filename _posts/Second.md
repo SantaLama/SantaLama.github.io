@@ -2,7 +2,7 @@
 layout: post
 title: Who important more?
 ---
-
+---
 ![_config.yml](/image.freepik.com/free-icon/five-fingers-silhouette_318-39194.png)
 Good morning my readers!!!
 Today we talk about Producers, Designers, Engineers, Scientists and Artists. How do their roles important in team?
