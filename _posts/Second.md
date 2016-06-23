@@ -33,7 +33,7 @@ Unlike the Engineers, Scientist study game mechanics and write game process. Thi
 
 5.Artist
 
-![_config.yml](http://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpTK4DRxUwdH5yjAf0_4sErLPUO7Yw0AdSrTBPdLpYSf9lnSjF8g)
+![_config.yml](http://blog-assets.bigfishgames.com/uploads/2013/10/10.jpg)
 
 The last profession is Artist.Their role is draw sketches and Blue Prints for Engineers and Designers.
 
