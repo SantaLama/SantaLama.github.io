@@ -1,8 +1,7 @@
----
+----
 layout: post
 title: SHOCK!!! I created a monster!!!
----
-
+----
 Do you like a strange creatures?
 
 Now you have got a chance to see my MONSTER!!! A little monster.
